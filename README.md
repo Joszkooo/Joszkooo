@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate fullstack developer from Poland! 🤓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joszkooo&label=Profile%20views&color=0e75b6&style=flat" alt="joszkooo" /> </p>
-
 - 🔭 I’m currently working on [React/Raspberry Pi timelapse website!](https://github.com/Joszkooo/Timelapse_webiste)
 
 - 🌱 I’m currently learning **React, NextJS, Raspberry Pi**
