@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate fullstack developer from Poland! 🤓</h3>
 
-- 🔭 I’m currently working on [React/NextJS fundation website!]([https://github.com/Joszkooo/Timelapse_webiste](https://github.com/Joszkooo/my_mlodzi_next_js))
+- 🔭 I’m currently working on my HomeLab and sharpening C# 😉. 
 
-- 🌱 I’m currently learning **React, NextJS, Raspberry Pi**
+- 🌱 I’m currently learning *NextJS, Raspberry Pi, WebSockets**
 
 - 📫 How to reach me **michaljodko02@gmail.com**
 
