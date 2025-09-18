@@ -9,7 +9,7 @@ Interests
   - 🌱 I’m currently learning *NextJS, Raspberry Pi, WebSockets*
 
 Motivation
-    - 🚀 What drives me: The ability to create anything I can imagine. I love the freedom and creativity that coding provides, allowing me to turn ideas into reality.
+  - 🚀 What drives me: The ability to create anything I can imagine. I love the freedom and creativity that coding provides, allowing me to turn ideas into reality.
 
 Goals
   - 🎯 Primary goal: To ensure that the projects I work on are useful in everyday life and make a positive impact on users.
