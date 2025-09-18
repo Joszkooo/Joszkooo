@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate fullstack developer from Poland! 🤓</h3>
+<h3 align="center">A passionate backend/fullstack developer from Poland! 🤓</h3>
 
-- 🔭 I’m currently working on my HomeLab and sharpening C# 😉. 
+Skills
+  - 💻 Languages & Technologies: Proficient in C# and the .NET ecosystem.
 
-- 🌱 I’m currently learning *NextJS, Raspberry Pi, WebSockets**
+Interests
+  - 🌐 Development: Passionate about web development and homelabs.
+  - 🌱 I’m currently learning *NextJS, Raspberry Pi, WebSockets*
 
-- 📫 How to reach me **michaljodko02@gmail.com**
+Motivation
+    - 🚀 What drives me: The ability to create anything I can imagine. I love the freedom and creativity that coding provides, allowing me to turn ideas into reality.
 
-<h3 align="left">Connect with me:</h3>
+Goals
+  - 🎯 Primary goal: To ensure that the projects I work on are useful in everyday life and make a positive impact on users.
+
+  - 📫 How to reach me **michaljodko02@gmail.com**
+
+<h3 align="left">Feel free to check out my repositories and see what I’m working on. Let’s connect and collaborate!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/michał-jodko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/michał-jodko" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/joszkooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joszkooo" height="30" width="40" /></a>
