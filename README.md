@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate backend/fullstack developer from Poland! 🤓</h3>
+<h3 align="center">A passionate fullstack developer from Poland! 🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joszkooo&label=Profile%20views&color=0e75b6&style=flat" alt="joszkooo" /> </p>
 
 Skills
-  - 💻 Languages & Technologies: Proficient in C# and the .NET ecosystem.
+  - 💻 Languages & Technologies: Proficient in C#, React and the .NET ecosystem.
 
 Interests
   - 🌐 Development: Passionate about web development and homelabs.
-  - 🌱 I’m currently learning *NextJS, Raspberry Pi, WebSockets*
 
 Motivation
   - 🚀 What drives me: The ability to create anything I can imagine. I love the freedom and creativity that coding provides, allowing me to turn ideas into reality.
